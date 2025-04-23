@@ -21,7 +21,7 @@ var AboutCommand = Command{
 					"Server password: " + SERV_PASS + "\n" +
 					"\n" +
 					"To connect with CS2 console, use this command: \n" +
-					"```connect " + SERV_ADDR + "; password " + RCON_PASS + "``` \n" +
+					"```connect " + SERV_ADDR + "; password " + SERV_PASS + "``` \n" +
 					"",
 			},
 		})
