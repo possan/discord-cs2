@@ -40,6 +40,9 @@ var (
 		WarmCommand,
 		PauseCommand,
 		UnpauseCommand,
+		BotAddCommand,
+		BotKickCommand,
+		FunGunsCommand,
 	}
 )
 
